@@ -1,4 +1,5 @@
 using ASP_Avto_Stil.Data;
+using ASP_Avto_Stil.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -16,11 +17,16 @@ namespace ASP_Avto_Stil
                 options.UseSqlServer(connectionString));
             builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-            builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+            builder.Services.AddDefaultIdentity<Client>(options => options.SignIn.RequireConfirmedAccount = false)
+
+                .AddRoles<IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+
+
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
+            app.PrepareDataBase().Wait();
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
