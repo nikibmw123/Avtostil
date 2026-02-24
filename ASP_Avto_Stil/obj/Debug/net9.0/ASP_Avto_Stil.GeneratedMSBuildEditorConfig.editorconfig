@@ -52,6 +52,46 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/1212-5/Desktop/BMW12A/ASP_Avto_Stil/Avtostil/ASP_Avto_Stil/Views/BrandModels/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRNb2RlbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1212-5/Desktop/BMW12A/ASP_Avto_Stil/Avtostil/ASP_Avto_Stil/Views/BrandModels/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRNb2RlbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1212-5/Desktop/BMW12A/ASP_Avto_Stil/Avtostil/ASP_Avto_Stil/Views/BrandModels/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRNb2RlbHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1212-5/Desktop/BMW12A/ASP_Avto_Stil/Avtostil/ASP_Avto_Stil/Views/BrandModels/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRNb2RlbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1212-5/Desktop/BMW12A/ASP_Avto_Stil/Avtostil/ASP_Avto_Stil/Views/BrandModels/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRNb2RlbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1212-5/Desktop/BMW12A/ASP_Avto_Stil/Avtostil/ASP_Avto_Stil/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1212-5/Desktop/BMW12A/ASP_Avto_Stil/Avtostil/ASP_Avto_Stil/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1212-5/Desktop/BMW12A/ASP_Avto_Stil/Avtostil/ASP_Avto_Stil/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1212-5/Desktop/BMW12A/ASP_Avto_Stil/Avtostil/ASP_Avto_Stil/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1212-5/Desktop/BMW12A/ASP_Avto_Stil/Avtostil/ASP_Avto_Stil/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/1212-5/Desktop/BMW12A/ASP_Avto_Stil/Avtostil/ASP_Avto_Stil/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

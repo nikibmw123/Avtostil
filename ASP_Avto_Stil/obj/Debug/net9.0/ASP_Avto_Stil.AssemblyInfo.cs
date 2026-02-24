@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP_Avto_Stil")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec1e441d9ce4b3448158f015740c2805527f218b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22f94b50bdccde561ac166fb4894418145b39280")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP_Avto_Stil")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP_Avto_Stil")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
