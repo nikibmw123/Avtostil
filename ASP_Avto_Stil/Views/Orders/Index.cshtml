@@ -1,0 +1,57 @@
+﻿@model IEnumerable<ASP_Avto_Stil.Data.Order>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+               Клиент
+                @* @Html.DisplayNameFor(model => model.Clients) *@
+            </th>
+            <th>
+                Част
+                @* @Html.DisplayNameFor(model => model.Parts) *@
+            </th>
+            <th>
+                Количество
+                @* @Html.DisplayNameFor(model => model.PartQuantity) *@
+            </th>
+            <th>
+                Дата на поръчка
+                @* @Html.DisplayNameFor(model => model.RegisterOn) *@
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+              @*       @Html.DisplayFor(modelItem =>  *@ @(item.Clients.FirstName + " " + item.Clients.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Parts.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PartQuantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RegisterOn)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
