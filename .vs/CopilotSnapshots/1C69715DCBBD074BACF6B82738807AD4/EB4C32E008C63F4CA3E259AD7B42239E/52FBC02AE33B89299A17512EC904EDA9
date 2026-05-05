@@ -1,0 +1,79 @@
+﻿@model IEnumerable<ASP_Avto_Stil.Data.Part>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Име на продукта
+               @*  @Html.DisplayNameFor(model => model.Name) *@
+            </th>
+            <th>
+                Категория
+              @*   @Html.DisplayNameFor(model => model.Categories) *@
+            </th>
+            <th>
+                Описание
+            @*     @Html.DisplayNameFor(model => model.Description) *@
+            </th>
+            <th>
+                Марка и модел
+                @* @Html.DisplayNameFor(model => model.BrandModels) *@
+            </th>
+            <th>
+                Снимка
+                @* @Html.DisplayNameFor(model => model.ImageURL) *@
+            </th>
+            <th>
+                Цена
+                @* @Html.DisplayNameFor(model => model.Price) *@
+            </th>
+            <th>
+                Количество
+                @* @Html.DisplayNameFor(model => model.Quantity) *@
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Categories.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BrandModels.Id)
+            </td>
+            <td>
+               @*  @Html.DisplayFor(modelItem => item.ImageURL) *@
+                <img src="@item.ImageURL" width="50"/>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,47 @@
+﻿@model ASP_Avto_Stil.Data.Order
+
+@{
+    ViewData["Title"] = "Детайли за поръчка";
+}
+
+<div class="row justify-content-center mt-4">
+    <div class="col-md-6">
+        <div class="card bg-dark border-secondary shadow text-light">
+            <div class="card-header bg-dark text-warning border-bottom border-secondary py-3">
+                <h3 class="mb-0">Детайли за поръчка</h3>
+            </div>
+            <div class="card-body p-4">
+                <dl class="row mb-0">
+                    <dt class="col-sm-4 text-muted">Клиент</dt>
+                    <dd class="col-sm-8 mb-3 fs-5">
+                        @if(Model.Clients != null) {
+                            text = Model.Clients.FirstName + " " + Model.Clients.LastName;
+                        } else {
+                            text = "-";
+                        }
+                        @Html.Raw(Model.Clients != null ? Model.Clients.FirstName + " " + Model.Clients.LastName : "-")
+                    </dd>
+
+                    <dt class="col-sm-4 text-muted">Част</dt>
+                    <dd class="col-sm-8 mb-3 fs-5">
+                        @Html.DisplayFor(model => model.Parts.Name)
+                    </dd>
+
+                    <dt class="col-sm-4 text-muted">Количество</dt>
+                    <dd class="col-sm-8 mb-3 fs-5">
+                        <span class="badge bg-secondary">@Html.DisplayFor(model => model.PartQuantity) бр.</span>
+                    </dd>
+
+                    <dt class="col-sm-4 text-muted">Дата на поръчка</dt>
+                    <dd class="col-sm-8 mb-0 fs-5">
+                        @Model.RegisterOn.ToString("dd.MM.yyyy HH:mm")
+                    </dd>
+                </dl>
+            </div>
+            <div class="card-footer bg-dark border-top border-secondary py-3">
+                <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-warning fw-bold px-4 me-2">Редактирай</a>
+                <a asp-action="Index" class="btn btn-outline-light px-4">Назад</a>
+            </div>
+        </div>
+    </div>
+</div>

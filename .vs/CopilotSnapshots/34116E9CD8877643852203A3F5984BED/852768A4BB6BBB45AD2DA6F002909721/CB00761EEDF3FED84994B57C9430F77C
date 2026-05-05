@@ -1,0 +1,63 @@
+﻿@model ASP_Avto_Stil.Data.Part
+
+@{
+    ViewData["Title"] = "Детайли";
+}
+
+<div class="row justify-content-center mt-4">
+    <div class="col-md-8">
+        <div class="card bg-dark border-secondary shadow text-light">
+            <div class="row g-0">
+                <div class="col-md-5 d-flex align-items-center justify-content-center bg-secondary">
+                    @if (!string.IsNullOrEmpty(Model.ImageURL))
+                    {
+                        <img src="@Model.ImageURL" class="img-fluid rounded-start" alt="@Model.Name" style="width:100%; object-fit: cover; max-height: 400px; background-color: #fff;" />
+                    }
+                    else
+                    {
+                        <span class="p-5 text-white">Няма снимка</span>
+                    }
+                </div>
+                <div class="col-md-7">
+                    <div class="card-body">
+                        <h2 class="card-title text-warning mb-4">@Model.Name</h2>
+                        
+                        <dl class="row">
+                            <dt class="col-sm-4 text-muted">Категория</dt>
+                            <dd class="col-sm-8 mb-3">@Html.DisplayFor(model => model.Categories.Name)</dd>
+
+                            <dt class="col-sm-4 text-muted">За модел</dt>
+                            <dd class="col-sm-8 mb-3">@Model.BrandModels.Brand @Model.BrandModels.Model</dd>
+
+                            <dt class="col-sm-4 text-muted">Описание</dt>
+                            <dd class="col-sm-8 mb-3">@Html.DisplayFor(model => model.Description)</dd>
+
+                            <dt class="col-sm-4 text-muted">Цена</dt>
+                            <dd class="col-sm-8 mb-3 fs-5 text-success fw-bold">@Model.Price лв.</dd>
+
+                            <dt class="col-sm-4 text-muted">Наличност</dt>
+                            <dd class="col-sm-8 mb-4">
+                                @if (Model.Quantity > 0)
+                                {
+                                    <span class="badge bg-success">@Model.Quantity бр.</span>
+                                }
+                                else
+                                {
+                                    <span class="badge bg-danger">Изчерпано</span>
+                                }
+                            </dd>
+                        </dl>
+
+                        <div class="mt-4">
+                            @if (User.IsInRole("Admin"))
+                            {
+                                <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-warning me-2 fw-bold">Редактирай</a>
+                            }
+                            <a asp-action="Index" class="btn btn-outline-light">Обратно в каталога</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

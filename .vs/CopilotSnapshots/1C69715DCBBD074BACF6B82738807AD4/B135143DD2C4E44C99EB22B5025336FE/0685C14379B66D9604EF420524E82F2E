@@ -1,0 +1,68 @@
+﻿@model IEnumerable<ASP_Avto_Stil.Data.Part>
+
+@{
+    ViewData["Title"] = "Авточасти";
+}
+
+<h1 class="text-warning mb-4">Каталог авточасти</h1>
+
+@if (User.IsInRole("Admin"))
+{
+    <p class="mb-4">
+        <a asp-action="Create" class="btn btn-warning fw-bold text-dark">Добави нова част</a>
+    </p>
+}
+
+<div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
+    @foreach (var item in Model)
+    {
+        <div class="col">
+            <div class="card h-100 bg-dark border-secondary text-light shadow-sm">
+                @if (!string.IsNullOrEmpty(item.ImageURL))
+                {
+                    <img src="@item.ImageURL" class="card-img-top" alt="@item.Name" style="height: 200px; object-fit: cover; background-color: #fff;" />
+                }
+                else
+                {
+                    <div class="card-img-top d-flex align-items-center justify-content-center bg-secondary text-white" style="height: 200px;">
+                        <span>Няма снимка</span>
+                    </div>
+                }
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title text-warning text-truncate" title="@item.Name">@item.Name</h5>
+                    
+                    <p class="card-text mb-2 text-truncate" title="@item.Description">
+                        <small class="text-muted">@item.Description</small>
+                    </p>
+                    
+                    <p class="card-text mb-1">
+                        <strong>Категория:</strong> @Html.DisplayFor(modelItem => item.Categories.Name)
+                    </p>
+                    
+                    <p class="card-text mb-3">
+                        <strong>Модел:</strong> @Html.DisplayFor(modelItem => item.BrandModels.Name)
+                    </p>
+
+                    <div class="mt-auto d-flex justify-content-between align-items-center mb-3">
+                        <span class="fs-5 fw-bold text-success">@item.Price лв.</span>
+                        <span class="badge @(item.Quantity > 0 ? "bg-success" : "bg-danger")">
+                            @(item.Quantity > 0 ? $"В наличност: {item.Quantity}" : "Изчерпано")
+                        </span>
+                    </div>
+
+                    <div class="d-grid gap-2 mt-auto">
+                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-outline-light btn-sm">Детайли</a>
+                        
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <div class="btn-group w-100">
+                                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-outline-warning btn-sm">Редакция</a>
+                                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-outline-danger btn-sm">Изтрий</a>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

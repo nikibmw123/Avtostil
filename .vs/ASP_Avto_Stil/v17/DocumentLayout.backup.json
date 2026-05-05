@@ -3,52 +3,112 @@
   "WorkspaceRootPath": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\data\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\data\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\data\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\data\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\services\\applicationbuilderextension (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\services\\applicationbuilderextension (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\data\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\data\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\views\\parts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\views\\parts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\controllers\\partscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\controllers\\partscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\data\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\data\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\views\\brandmodels\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\views\\brandmodels\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\views\\parts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\views\\parts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\views\\parts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\views\\parts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\views\\parts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\views\\parts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\views\\parts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\views\\parts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\views\\parts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\views\\parts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\views\\parts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\views\\parts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\views\\brandmodels\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\views\\brandmodels\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\views\\brandmodels\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\views\\brandmodels\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\views\\brandmodels\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\views\\brandmodels\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\views\\brandmodels\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\views\\brandmodels\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|c:\\users\\1212-5\\desktop\\bmw12a\\asp_avto_stil\\avtostil\\asp_avto_stil\\views\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14AF3E7-7C46-47EC-A8E9-57F1777EF254}|ASP_Avto_Stil\\ASP_Avto_Stil.csproj|solutionrelative:asp_avto_stil\\views\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,29 +126,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Orders\\Edit.cshtml",
-              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Views\\Orders\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Orders\\Edit.cshtml",
-              "RelativeToolTip": "ASP_Avto_Stil\\Views\\Orders\\Edit.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-17T11:59:03.989Z",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "ASP_Avto_Stil\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T10:55:07.244Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Orders\\Index.cshtml",
-              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Views\\Orders\\Index.cshtml",
-              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Orders\\Index.cshtml",
-              "RelativeToolTip": "ASP_Avto_Stil\\Views\\Orders\\Index.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACQAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-17T11:39:28.473Z",
-              "EditorCaption": ""
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "ASP_Avto_Stil\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T10:50:47.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationBuilderExtension (1).cs",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Services\\ApplicationBuilderExtension (1).cs",
+              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Services\\ApplicationBuilderExtension (1).cs",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Services\\ApplicationBuilderExtension (1).cs",
+              "RelativeToolTip": "ASP_Avto_Stil\\Services\\ApplicationBuilderExtension (1).cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T10:49:23.189Z"
             },
             {
               "$type": "Document",
@@ -98,126 +169,285 @@
               "RelativeDocumentMoniker": "ASP_Avto_Stil\\Views\\Orders\\Create.cshtml",
               "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Orders\\Create.cshtml",
               "RelativeToolTip": "ASP_Avto_Stil\\Views\\Orders\\Create.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-17T10:57:05.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-05T10:32:21.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "ASP_Avto_Stil\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAIBJwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T10:14:06.941Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Part.cs",
-              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Data\\Part.cs",
-              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Data\\Part.cs",
-              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Data\\Part.cs",
-              "RelativeToolTip": "ASP_Avto_Stil\\Data\\Part.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T08:00:53.97Z",
-              "EditorCaption": ""
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "ASP_Avto_Stil\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T10:14:06.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "ASP_Avto_Stil\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAIBJwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T10:14:06.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "ASP_Avto_Stil\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAIBJwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T10:14:06.4Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Data\\Client.cs",
-              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Data\\Client.cs",
-              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Data\\Client.cs",
-              "RelativeToolTip": "ASP_Avto_Stil\\Data\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T08:00:40.379Z",
-              "EditorCaption": ""
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASP_Avto_Stil\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T09:54:06.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "ASP_Avto_Stil\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAUwIYAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T07:47:40.022Z",
-              "EditorCaption": ""
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Orders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Views\\Orders\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Orders\\Edit.cshtml",
+              "RelativeToolTip": "ASP_Avto_Stil\\Views\\Orders\\Edit.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T10:32:30.867Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 25,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Parts\\Details.cshtml",
-              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Views\\Parts\\Details.cshtml",
-              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Parts\\Details.cshtml",
-              "RelativeToolTip": "ASP_Avto_Stil\\Views\\Parts\\Details.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAA2AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Views\\Orders\\Details.cshtml",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Orders\\Details.cshtml",
+              "RelativeToolTip": "ASP_Avto_Stil\\Views\\Orders\\Details.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-10T11:50:16.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-05T10:32:42.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Parts\\Index.cshtml",
-              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Views\\Parts\\Index.cshtml",
-              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Parts\\Index.cshtml",
-              "RelativeToolTip": "ASP_Avto_Stil\\Views\\Parts\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD4AAAA2AAAAAAAAAA==",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Orders\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Views\\Orders\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Orders\\Delete.cshtml",
+              "RelativeToolTip": "ASP_Avto_Stil\\Views\\Orders\\Delete.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-10T11:33:30.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-05T10:33:02.707Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BrandModel.cs",
-              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Data\\BrandModel.cs",
-              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Data\\BrandModel.cs",
-              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Data\\BrandModel.cs",
-              "RelativeToolTip": "ASP_Avto_Stil\\Data\\BrandModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T11:22:59.786Z",
-              "EditorCaption": ""
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\BrandModels\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Views\\BrandModels\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\BrandModels\\Delete.cshtml",
+              "RelativeToolTip": "ASP_Avto_Stil\\Views\\BrandModels\\Delete.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T10:28:07.972Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Categorie.cs",
-              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Data\\Categorie.cs",
-              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Data\\Categorie.cs",
-              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Data\\Categorie.cs",
-              "RelativeToolTip": "ASP_Avto_Stil\\Data\\Categorie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T11:22:55.625Z",
-              "EditorCaption": ""
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\BrandModels\\Create.cshtml",
+              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Views\\BrandModels\\Create.cshtml",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\BrandModels\\Create.cshtml",
+              "RelativeToolTip": "ASP_Avto_Stil\\Views\\BrandModels\\Create.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T10:27:36.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\BrandModels\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Views\\BrandModels\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\BrandModels\\Edit.cshtml",
+              "RelativeToolTip": "ASP_Avto_Stil\\Views\\BrandModels\\Edit.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T10:27:49.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\BrandModels\\Details.cshtml",
+              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Views\\BrandModels\\Details.cshtml",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\BrandModels\\Details.cshtml",
+              "RelativeToolTip": "ASP_Avto_Stil\\Views\\BrandModels\\Details.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T10:27:58.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Parts\\Create.cshtml",
               "RelativeDocumentMoniker": "ASP_Avto_Stil\\Views\\Parts\\Create.cshtml",
               "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Parts\\Create.cshtml",
               "RelativeToolTip": "ASP_Avto_Stil\\Views\\Parts\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-10T08:00:42.404Z"
+              "WhenOpened": "2026-05-05T10:10:51.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ASP_Avto_Stil\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T10:05:42.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "ASP_Avto_Stil\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T09:57:34.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\BrandModels\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Views\\BrandModels\\Index.cshtml",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\BrandModels\\Index.cshtml",
+              "RelativeToolTip": "ASP_Avto_Stil\\Views\\BrandModels\\Index.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T09:57:22.58Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "PartsController.cs",
-              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Controllers\\PartsController.cs",
-              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Controllers\\PartsController.cs",
-              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Controllers\\PartsController.cs",
-              "RelativeToolTip": "ASP_Avto_Stil\\Controllers\\PartsController.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAcwDUAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T07:12:32.915Z",
-              "EditorCaption": ""
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "ASP_Avto_Stil\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T09:57:14.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Parts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Views\\Parts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Parts\\Edit.cshtml",
+              "RelativeToolTip": "ASP_Avto_Stil\\Views\\Parts\\Edit.cshtml",
+              "ViewState": "AgIAAEoAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T10:11:07.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Parts\\Details.cshtml",
+              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Views\\Parts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Parts\\Details.cshtml",
+              "RelativeToolTip": "ASP_Avto_Stil\\Views\\Parts\\Details.cshtml",
+              "ViewState": "AgIAAEkAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T10:11:20.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Parts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Views\\Parts\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Parts\\Delete.cshtml",
+              "RelativeToolTip": "ASP_Avto_Stil\\Views\\Parts\\Delete.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T10:11:30.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Parts\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Views\\Parts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Views\\Parts\\Index.cshtml",
+              "RelativeToolTip": "ASP_Avto_Stil\\Views\\Parts\\Index.cshtml",
+              "ViewState": "AgIAAE0AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T09:56:59.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "ASP_Avto_Stil\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T10:05:53.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ASP_Avto_Stil\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\1212-5\\Desktop\\BMW12A\\ASP_Avto_Stil\\Avtostil\\ASP_Avto_Stil\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "ASP_Avto_Stil\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAEkAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T10:06:05.797Z"
             }
           ]
         },

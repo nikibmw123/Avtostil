@@ -26,8 +26,18 @@ namespace ASP_Avto_Stil.Controllers
         // GET: Orders
         public async Task<IActionResult> Index()
         {
-            var applicationDbContext = _context.Orders.Include(o => o.Clients).Include(o => o.Parts);
-            return View(await applicationDbContext.ToListAsync());
+            var query = _context.Orders
+                .Include(o => o.Clients)
+                .Include(o => o.Parts)
+                .AsQueryable();
+
+            if (!User.IsInRole("Admin")) // cleaner logic
+            {
+                string userId = _userManager.GetUserId(User);
+                query = query.Where(o => o.ClientId == userId); // adjust this field
+            }
+
+            return View(await query.ToListAsync());
         }
 
         // GET: Orders/Details/5

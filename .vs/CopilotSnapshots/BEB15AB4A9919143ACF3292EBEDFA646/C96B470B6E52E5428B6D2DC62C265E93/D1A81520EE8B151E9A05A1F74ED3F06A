@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Начало";
+}
+
+<div class="text-center py-5">
+    <h1 class="display-3 fw-bold text-warning mb-4">ASP Авто Стил</h1>
+    <p class="lead text-light mb-5">Вашият доверен партньор за висококачествени авточасти, тунинг и аксесоари.</p>
+    
+    <div class="d-flex justify-content-center gap-3 mb-5">
+        <a asp-controller="Parts" asp-action="Index" class="btn btn-warning btn-lg px-4 fw-bold text-dark">Разгледай частите</a>
+        <a asp-area="Identity" asp-page="/Account/Register" class="btn btn-outline-light btn-lg px-4">Регистрация</a>
+    </div>
+
+    <div class="row mt-5 pt-4 border-top border-secondary text-start">
+        <div class="col-md-4 mb-4">
+            <div class="p-4 bg-dark border border-secondary rounded h-100 shadow-sm">
+                <h3 class="h5 text-warning">🛡️ Безкомпромисно качество</h3>
+                <p class="text-light mt-2 mb-0 opacity-75">Работим само с доказани производители, за да гарантираме най-доброто за вашия автомобил.</p>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="p-4 bg-dark border border-secondary rounded h-100 shadow-sm">
+                <h3 class="h5 text-warning">⚡ Бърза доставка</h3>
+                <p class="text-light mt-2 mb-0 opacity-75">Експресна обработка на поръчките и доставка до всяка точка на страната.</p>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="p-4 bg-dark border border-secondary rounded h-100 shadow-sm">
+                <h3 class="h5 text-warning">💰 Конкурентни цени</h3>
+                <p class="text-light mt-2 mb-0 opacity-75">Най-доброто съотношение между цена и качество на пазара за авточасти и аксесоари.</p>
+            </div>
+        </div>
+    </div>
+</div>
