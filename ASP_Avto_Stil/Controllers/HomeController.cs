@@ -23,6 +23,26 @@ namespace ASP_Avto_Stil.Controllers
             return View();
         }
 
+        public IActionResult Tuning()
+        {
+            return View();
+        }
+
+        public IActionResult AccessoriesCatalog()
+        {
+            return View();
+        }
+
+        public IActionResult Gallery()
+        {
+            return View();
+        }
+
+        public IActionResult Contacts()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

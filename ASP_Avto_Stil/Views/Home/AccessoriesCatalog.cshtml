@@ -1,0 +1,31 @@
+@{
+    ViewData["Title"] = "Каталог за аксесоари";
+}
+
+<section class="page-hero compact">
+    <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/BMW_M3_Competition_xDrive_Touring_%28G81%2C_2024%29_%2854540429240%29.jpg" alt="BMW M3 аксесоари" />
+    <div>
+        <span>АвтоСтил</span>
+        <h1>Каталог за аксесоари</h1>
+        <p>Идеи за аксесоари, които правят автомобила по-удобен, по-красив и по-различим.</p>
+    </div>
+</section>
+
+<section class="accessory-grid mt-4">
+    <article>
+        <h2>Екстериор</h2>
+        <p>Карбонови капачки, решетки, липове, спойлери, дифузьори и декоративни M елементи.</p>
+    </article>
+    <article>
+        <h2>Интериор</h2>
+        <p>Стелки, волани, пера за скорости, LED осветление, спортни педали и M аксесоари.</p>
+    </article>
+    <article>
+        <h2>Практични добавки</h2>
+        <p>Багажни решения, стойки, защитни аксесоари, препарати за поддръжка и сезонни продукти.</p>
+    </article>
+</section>
+
+<div class="mt-4">
+    <a asp-controller="Parts" asp-action="Index" class="btn btn-warning fw-bold text-dark">Виж наличните авточасти</a>
+</div>
